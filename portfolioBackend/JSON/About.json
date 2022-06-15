@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kislev Becker",
+        "Profession": "Full Stack Developer",
+        "Photo": "url",
+        "about_me": "algo sobre miiiii",
+        "skills": [
+            "javascript",
+            "nodejs",
+            "reactjs",
+            "angular",
+            "html",
+            "css",
+            "mysql"
+        ]
+    }
+]
